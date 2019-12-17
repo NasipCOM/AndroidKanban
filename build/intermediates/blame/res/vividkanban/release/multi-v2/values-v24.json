@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/incremental/mergeVividkanbanReleaseResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/nasip/.gradle/caches/transforms-2/files-2.1/1aa510ebeb2eca6ef91d64576c594752/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/home/nasip/.gradle/caches/transforms-2/files-2.1/a2d42c4ee01e2b98f46d0f83920bd78a/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                }
+            ]
+        }
+    ]
+}

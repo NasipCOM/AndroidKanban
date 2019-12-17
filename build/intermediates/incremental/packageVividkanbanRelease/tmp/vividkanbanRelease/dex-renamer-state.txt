@@ -1,0 +1,4 @@
+#Tue Dec 17 09:02:23 ALMT 2019
+base.0=/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/transforms/r8/vividkanban/release/0
+path.0=classes.dex
+renamed.0=classes.dex

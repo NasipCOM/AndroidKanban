@@ -1,0 +1,7 @@
+#Tue Dec 17 09:04:09 ALMT 2019
+base.0=/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/dex/lucidkanbanDebug/mergeExtDexLucidkanbanDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/dex/lucidkanbanDebug/mergeProjectDexLucidkanbanDebug/out

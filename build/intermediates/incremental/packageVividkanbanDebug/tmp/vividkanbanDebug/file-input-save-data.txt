@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Dec 17 09:02:02 ALMT 2019
+1.base=/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/dex/vividkanbanDebug/mergeExtDexVividkanbanDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/dex/vividkanbanDebug/mergeProjectDexVividkanbanDebug/out
+1.path=classes.dex
