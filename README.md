@@ -7,4 +7,5 @@ This application help to manage your time!!!
 
 Checkout the design in [Figma Draft](https://www.figma.com/file/zjI8MgWFxqXZB9LkRA6Rhs/Untitled?node-id=0%3A1)
 
+![Heroes](heroes.png
 
