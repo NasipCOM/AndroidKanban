@@ -130,12 +130,6 @@ public class TaskDetailActivity extends AppCompatActivity implements AdapterView
 
             } else if (requestCode == SELECT_FILE) {
 
-                /*Uri uri = data.getData();
-                if (uri != null) {
-                    selectedImagePath = uri.getPath();
-                }
-                displayImage.setImageURI(uri);*/
-
                 //data.getData return the content URI for the selected Image
                 Uri selectedImage = data.getData();
                 String[] filePathColumn = {MediaStore.Images.Media.DATA};

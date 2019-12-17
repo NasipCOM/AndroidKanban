@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 17 09:04:09 ALMT 2019
+#Tue Dec 17 09:36:23 ALMT 2019
 1.base=/home/nasip/Desktop/Android-Ala-Too-Kanban/app/build/intermediates/dex/lucidkanbanDebug/mergeExtDexLucidkanbanDebug/out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

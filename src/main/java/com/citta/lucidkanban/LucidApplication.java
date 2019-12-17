@@ -10,7 +10,7 @@ import com.citta.lucidkanban.managers.TaskManager;
 import static android.support.constraint.Constraints.TAG;
 
 /**
- * Created by Satya on 2019-06-08.
+ * Created by Nasip on 2019-13-12.
  */
 public class LucidApplication extends Application {
 

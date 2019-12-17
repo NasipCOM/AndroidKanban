@@ -3,8 +3,6 @@ package com.citta.lucidkanban.fragments;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -49,12 +47,6 @@ public class TasksFragment extends Fragment implements MainActivity.OnMainViewsC
     public static final String IS_EXISTING_TASK = "isUserClickedExistingTask";
     private boolean isKanbanPage = false;
 
-    //  endregion
-
-
-    //
-    // region helpers
-    //
 
     public static TasksFragment newInstance(boolean isKanbanPage) {
         TasksFragment myFragment = new TasksFragment();
@@ -248,7 +240,6 @@ public class TasksFragment extends Fragment implements MainActivity.OnMainViewsC
         public void hydrate(Task task) {
             if (task.taskImagePath != null) {
                 taskImage.setVisibility(View.VISIBLE);
-                //taskImage.setImageBitmap(BitmapFactory.decodeFile(task.taskImagePath));
                 taskImage.setImageBitmap(BitmapTools.decodeSampledBitmapFromPath(task.taskImagePath, 100, 100));
             }
             else {
